@@ -5,6 +5,8 @@ https://www.lwjgl.org/customize
 - Commons IO:
 https://commons.apache.org/proper/commons-io/
 - IDE Eclipse cualquier versión.
+- wavs drive:
+https://drive.google.com/drive/folders/1wnA86j1hwZ6E70n31hx1t7hl3OoDJxiD?usp=sharing
 
 En eclipse:
 1) Click derecho al proyecto
